@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Texture pack that literally inverts all colors in Minecraft. §1Made by PavelDobCZ23",
+        "name": "Negative Colours",
+        "uuid": "b570296e-383c-44b4-9f3e-b1a4eca1d4f8",
+        "version": [1, 3, 0],
+        "min_engine_version": [ 1, 13, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Negative Colours - resources module",
+            "type": "resources",
+            "uuid": "cb45e6ad-bdba-4e61-9f16-ce75a33ba8c1",
+            "version": [1, 3, 0]
+        }
+    ],
+     "subpacks": [
+        {
+            "folder_name": "ui",
+            "name": "UI",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "no_ui",
+            "name": "No UI (default)",
+            "memory_tier": 0
+        }
+     ]
+}

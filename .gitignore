@@ -1,0 +1,6 @@
+/exports
+/exports/*
+/scripts/
+/scripts/*
+mcproject.json
+notes.md
